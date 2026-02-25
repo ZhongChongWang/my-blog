@@ -1,9 +1,17 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# 关于我
+一个普通的大四学生
 
-::github{repo="saicaca/fuwari"}
+如有联系：cwzhong627@gmail.com 
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+本网站采用的是基于[astro](https://astro.build/)的主题[fuwari](https://github.com/saicaca/fuwari/)
+
+本网站由[cloudflare](https://www.cloudflare-cn.com/)和[vercel](https://vercel.com/)友情提供服务
+
+使用[typora](https://typora.io/)编写md
+
+本博客以开源:
+
+::github{repo="cwzhong627-source/my-blog"}
+
+
+
